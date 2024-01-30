@@ -1,6 +1,6 @@
 ![Multi-omics_AWG_logo](https://github.com/OpenScienceDataRepo/Multi-omics_AWG/assets/158081608/9569de22-45c9-4e75-bd8b-79f754b2a2af)
 
-# Multi-omics Analysis Working Group
+# Multi-omics Analysis Working Group (AWG)
 
 **OSDR AWGs Overview**  
 The [Open Science Data Repository (OSDR)](https://osdr.nasa.gov/bio/) is a science collaboration initiative that provides an open-access data system designed to help scientists discover and access space-relevant datasets to perform primary, secondary, and meta-analyses. OSDR has established the [Analysis Working Groups (AWGs)](https://osdr.nasa.gov/bio/awg/about.html) with the goal of optimizing the metadata, data, and features available to maximize the gain of new knowledge from such rare and complex datasets. The AWGs will assess and improve the effectiveness of the OSDR through intensive utilization of OSDR resources and generate higher-order data. This GitHub repository is dedicated for Multi-omics AWG members to share and collaborate their work and codes.
